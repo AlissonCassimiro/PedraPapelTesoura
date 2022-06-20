@@ -21,7 +21,7 @@ Então ouve um empate! ambos escolheram PEDRA
 
 #EXPLICANDO GANHANDO.
 
-Exemplo de GANHAR: O jogador precisa fazer uma escolha precisa para que consiga ganhar.
+Exemplo de GANHAR: O jogador precisa fazer uma escolha para que consiga ganhar.
 Ex:
 
 Pedra ganha de Tesoura.
@@ -31,11 +31,11 @@ Tesoura ganha de Papel.
 
 #EXPLICANDO PERDENDO.
 
-Exemplo de PERDENDO: O jogador precisa fazer uma escolha precisa para que consiga perder.
+Exemplo de PERDENDO: O jogador precisa fazer uma escolha para que consiga perder.
 Ex:
 
-Pedra perde para Papel
-Tesoura perde para Pedra
+Pedra perde para Papel.
+Tesoura perde para Pedra.
 Papel perde para tesoura.
 
 
